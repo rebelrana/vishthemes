@@ -258,8 +258,8 @@
         "button_TDN9HE": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Next",
+            "button_link": "shopify://products/the-3p-fulfilled-snowboard",
             "button_style_secondary": false
           }
         }
