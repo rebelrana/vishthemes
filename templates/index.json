@@ -620,17 +620,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "page_r6YCcg": {
-      "type": "page",
-      "name": "t:sections.page.presets.name",
-      "settings": {
-        "page": "contact",
-        "heading_size": "h1",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -648,7 +637,6 @@
     "newsletter_iAKtjU",
     "contact_form_aUbL3e",
     "video_F86UCW",
-    "featured_blog_6CTW6M",
-    "page_r6YCcg"
+    "featured_blog_6CTW6M"
   ]
 }
